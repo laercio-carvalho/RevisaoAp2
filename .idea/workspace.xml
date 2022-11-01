@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5336d1fd-c930-4d28-ba68-2f9e0379f20e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Zero2/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zero3/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zero4/ArrayListTest04.java" afterDir="false" />
+    <list default="true" id="5336d1fd-c930-4d28-ba68-2f9e0379f20e" name="Changes" comment="Mais formas foram adicionadas de se declarar vetores.&#10;Entre eles o Lambda Expression.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zero5/ArrayListTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zero6/Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zero7/Overload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zero7/OverloadMetodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zero8/Classe2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zero8/Classe3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zero1/Metodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zero1/Metodo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +37,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,6 +52,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667301105446</updated>
     </task>
+    <task id="LOCAL-00001" summary="Mais formas foram adicionadas de se declarar vetores.&#10;Entre eles o Lambda Expression.">
+      <created>1667303884479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667303884479</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -59,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mais formas foram adicionadas de se declarar vetores.&#10;Entre eles o Lambda Expression." />
+    <option name="LAST_COMMIT_MESSAGE" value="Mais formas foram adicionadas de se declarar vetores.&#10;Entre eles o Lambda Expression." />
   </component>
 </project>
